@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div className="container">
       <div className="row align-items-center homePageRow">
-        <div className="col-md-6">
+        <div className="col-lg-6 col-md-12 text-center text-lg-start">
           <h1 className="title">Interior of the Future</h1>
           <h3 className="subTitle">Designed for Efficiency</h3>
           <p>
@@ -19,7 +19,7 @@ const Home = () => {
           </p>
           <button className="btn defaultBtn">Live Demo</button>
         </div>
-        <div className="col-md-6">
+        <div className="col-lg-6 d-none d-lg-block">
           <img className="w-100" src={hero} alt="" />
         </div>
       </div>

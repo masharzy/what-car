@@ -12,12 +12,19 @@
 }
 .title{
     color: #27ae60;
-    font-size: 60px;
+    font-size: 50px;
 }
 .subTitle{
     color: #164e2e;
-    font-size: 40px;
+    font-size: 30px;
 }
-.homePageRow{
-    height: 650px;
+
+@media screen and (max-width: 1200px){
+    .title{
+        font-size: 40px;
+    }
+    .subTitle{
+        font-size: 20px;
+    }
+    
 }
