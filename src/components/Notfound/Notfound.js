@@ -8,7 +8,7 @@ const Notfound = () => {
       <div className="row fourZeroFourPageRow align-items-center">
         <div className="fourZeroFour">
           <div className="fourZeroFourBg">
-            <h1>404</h1>
+            <h1 style={{fontSize:"50px"}}>404</h1>
           </div>
           <h3>Look like you're lost</h3>
           <p>the page you are looking for not avaible!</p>
