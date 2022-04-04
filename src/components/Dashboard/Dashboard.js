@@ -62,7 +62,7 @@ const Dashboard = () => {
         <h1>Dashboard</h1>
       </div>
       <div className="container">
-        <div className="row text-center" style={{ height: "100vh" }}>
+        <div className="row text-center">
           <div className="col-md-6">
             <div className="chart-head">
               <h1>Month Wise Cell</h1>
