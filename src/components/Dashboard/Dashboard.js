@@ -94,6 +94,7 @@ const Dashboard = () => {
                 <XAxis dataKey="month" />
                 <YAxis />
                 <Tooltip />
+                <Legend />
                 <Area
                   dataKey="investment"
                   stroke="#8884d8"
