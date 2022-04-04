@@ -6,7 +6,7 @@ const CustomLink = ({ children, to, ...props }) => {
   let match = useMatch({ path: resolved.pathname, end: true });
 
   const linkStyle = {
-      color: match ? '#27ae60' : '#fff'
+      color: match ? '#27ae60' : '#000'
   }
 
   const lineStyle = {

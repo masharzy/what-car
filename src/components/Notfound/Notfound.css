@@ -1,0 +1,9 @@
+.fourZeroFourPageRow{
+    height: 90vh;
+}
+.fourZeroFourBg{
+    background: url('https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+}

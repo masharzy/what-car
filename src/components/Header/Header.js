@@ -4,7 +4,7 @@ import './Header.css';
 
 const Header = () => {
   return (
-      <ul className="nav justify-content-center fixed-top pb-2 bg-dark">
+      <ul className="nav justify-content-center sticky-top pb-2">
         <li className="nav-item">
           <CustomLink className="nav-link" to="/">
             Home
