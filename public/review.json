@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Malone Peterson",
+    "img": "https://randomuser.me/api/portraits/men/64.jpg",
+    "rating": 3.5,
+    "text": "Technology system sucks!!! It's not accurate and this car is nothing but continuous mechanical system problems. Etc..."
+  },
+  {
+    "id": 2,
+    "name": "Margo Valdez",
+    "img": "https://randomuser.me/api/portraits/men/10.jpg",
+    "rating": 4.5,
+    "text": "The car looks really cool but can you please lower the car price down to like 9,990 please because I don't have enough and I got kicked out of my job"
+  },
+  {
+    "id": 3,
+    "name": "Lily Alston",
+    "img": "https://randomuser.me/api/portraits/women/53.jpg",
+    "rating": 3,
+    "text":"So far best car ever. I'm an auto mechanic & I know electric cars will eventually take my job away but can't really hate on the beauty & reliability of this car . This is the future ."
+  },
+  {
+    "id": 4,
+    "name": "Morris Bullock",
+    "img": "https://randomuser.me/api/portraits/men/83.jpg",
+    "rating": 1.5,
+    "text":"You cannot get an appointment to fix your car. It takes over a month just to make an appointment. If you have something wrong with your tire and you live in Tampa, Fl. be prepared for them to: 1. Not have a tire available 2. Not have a car for you to drive when that tire is not available 3. Charge you $82 to patch it (if possible) 4. Wait over 2 hours at the service center to change the tire 5. Have staff go on lunch breaks while you are waiting extending your wait time even longer without informing you 6. Charge you $400 for a tire that they are not sure if you need?? How can Tesla sell cars that can only be serviced by a Tesla dealer but then not have staff to complete the service? I will be trading in the Tesla for a more luxury electric car. One that actually provides customer service!!"
+  },
+  {
+    "id": 5,
+    "name": "Mcfadden Morgan",
+    "img": "https://randomuser.me/api/portraits/women/65.jpg",
+    "rating": 2,
+    "text": "Car of the future meets AI voice systems and blows away any competition. Enable VoiceAdmins and have your calls taken while you drive!!"
+  },
+  {
+    "id": 6,
+    "name": "Patricia Burnett",
+    "img": "https://randomuser.me/api/portraits/women/85.jpg",
+    "rating": 2.5,
+    "text": "Car of the future meets AI voice systems and blows away any competition. Enable VoiceAdmins and have your calls taken while you drive!! "
+  },
+  {
+    "id": 7,
+    "name": "Rice Kramer",
+    "img": "https://randomuser.me/api/portraits/women/19.jpg",
+    "rating": 5,
+    "text":"21st century auto at the right time. Elon is truly a genus. Easy to drive. Tech is amazing. Speed is super car class. Support is top drawer. Very well thought out controls and functions"
+  },
+  {
+    "id": 8,
+    "name": "Head Taylor",
+    "img": "https://randomuser.me/api/portraits/men/30.jpg",
+    "rating": 5,
+    "text":"After two years totally trouble free, this vehicle is the best yet. Much more comfortable than my Model S, it's not quite as quick or as smooth, but the added ease of entering and exiting the vehicle is worth it. I'm totally pleased but looking forward to my next gen Model X when Tesla perfects the 4680 battery.    "
+  },
+  {
+    "id": 9,
+    "name": "Barber Boyle",
+    "img": "https://randomuser.me/api/portraits/men/14.jpg",
+    "rating": 4,
+    "text":"I just bought this car for my family, it’s so cool! It’s fast speedy and it gets better every time I drive it, I also own a 2021 Tesla model 3"
+  },
+  {
+    "id": 10,
+    "name": "Conley Cross",
+    "img": "https://randomuser.me/api/portraits/women/51.jpg",
+    "rating": 5,
+    "text":"I’m already recommending Tesla to everyone I know! The car is amazing! FUN TO DRIVE! Saves money on gas! No oil changes! Nothing like it!"
+  },
+  {
+    "id": 11,
+    "name": "Hilda Foley",
+    "img": "https://randomuser.me/api/portraits/men/75.jpg",
+    "rating":  4.5,
+    "text":"This is my second Tesla and Ive loved them both. My first was a used Model S purchased through Tesla. Yes, both have had a couple quirks but the uniqueness and ability to drive right by gas stations more than make up for it. Highly recommend. "
+  },
+  {
+    "id": 12,
+    "name": "Leah Anderson",
+    "img": "https://randomuser.me/api/portraits/men/73.jpg",
+    "rating": 3.5,
+    "text":"Its just NOT ready for primetime "
+  },
+  {
+    "id": 13,
+    "name": "Susanne Gates",
+    "img": "https://randomuser.me/api/portraits/women/0.jpg",
+    "rating": 2.5,
+    "text": "Don't Buy a Tesla if expect to need autobody "
+  }
+]

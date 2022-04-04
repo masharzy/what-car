@@ -1,0 +1,22 @@
+.defaultBtn{
+    padding: 10px 30px;
+    background-color: #27ae60;
+    color: #fff;
+    border: 2px solid #27ae60;
+    font-weight: 600;
+}
+.liveBtn:hover{
+    background-color: transparent;
+    color: #27ae60;
+}
+.title{
+    color: #27ae60;
+    font-size: 60px;
+}
+.subTitle{
+    color: #164e2e;
+    font-size: 40px;
+}
+.homePageRow{
+    height: 100vh;
+}
