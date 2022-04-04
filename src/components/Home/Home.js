@@ -1,13 +1,10 @@
 import React from "react";
 import useReviews from "../../hooks/useReviews";
 import hero from "../../images/model-x.png";
+import HomePageReviews from "../HomePageReviews/HomePageReviews";
 import "./Home.css";
 
 const Home = () => {
-
-    // const [reviews, setReviews]  =  useReviews();
-
-
   return (
     <div className="container">
       <div className="row align-items-center homePageRow">
@@ -26,11 +23,9 @@ const Home = () => {
           <img className="w-100" src={hero} alt="" />
         </div>
       </div>
-      {/* <div className="row">
-          {
-              reviews.map((review) => <li>{review.name}</li>)
-          }
-      </div> */}
+      <div className="row">
+        <HomePageReviews />
+      </div>
     </div>
   );
 };

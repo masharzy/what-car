@@ -4,29 +4,38 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Review = ({ review }) => {
+  const { img, name, text, rating } = review;
   return (
-    <div className="row align-items-center border mx-auto mt-3 p-4 rounded">
-      <div className="image col-md-2">
-        <img className="rounded-circle mx-auto" src={review.img} alt="" />
-      </div>
-      <div className="col-md-10">
-        <h1>{review.name}</h1>
-        <p>{review.text}</p>
-        <div className="rating d-flex">
-          <h5 className="me-2">{review.rating}</h5>
-          <Rating
-            initialRating={review.rating}
-            emptySymbol={
-              <FontAwesomeIcon style={{ color: "#ddd" }} icon={faStar} />
-            }
-            fullSymbol={
-              <FontAwesomeIcon style={{ color: "goldenrod" }} icon={faStar} />
-            }
-            readonly
-          ></Rating>
+      <div className="col-md-4 mb-4">
+        <div class="card h-100 review-card">
+          <div className="d-flex align-items-center justify-content-center">
+            <img className="rounded-circle me-3" src={review.img} alt="" />
+            <div className="card-content">
+              <h3 style={{ fontSize: "22px" }}>{review.name}</h3>
+              <span class="me-2">{review.rating}</span>
+              <Rating
+                initialRating={review.rating}
+                emptySymbol={
+                  <FontAwesomeIcon style={{ color: "#ddd" }} icon={faStar} />
+                }
+                fullSymbol={
+                  <FontAwesomeIcon
+                    style={{ color: "goldenrod" }}
+                    icon={faStar}
+                  />
+                }
+                readonly
+              ></Rating>
+            </div>
+          </div>
+
+          <div class="review-text">
+            <p class="content mt-4" style={{ fontSize: "16px" }}>
+              "{review.text}"
+            </p>
+          </div>
         </div>
       </div>
-    </div>
   );
 };
 
