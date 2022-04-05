@@ -1,5 +1,5 @@
 import React from "react";
-import './HomePageReview.css'
+import "./HomePageReview.css";
 import useRating from "../../hooks/useRating";
 
 const HomePageReview = ({ review }) => {

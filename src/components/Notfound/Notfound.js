@@ -11,7 +11,7 @@ const Notfound = () => {
             <h1 style={{fontSize:"50px"}}>404</h1>
           </div>
           <h3>Look like you're lost</h3>
-          <p>the page you are looking for not avaible!</p>
+          <p>The page you are looking for not available!</p>
           <Link to="/" className="btn defaultBtn">
             Back To Home
           </Link>

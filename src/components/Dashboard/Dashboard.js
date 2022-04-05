@@ -71,7 +71,7 @@ const Dashboard = () => {
               <LineChart width={500} data={data}>
                 <CartesianGrid strokeDasharray="3 3" />
                 <XAxis dataKey="month" />
-                <YAxis />
+                <YAxis/>
                 <Tooltip />
                 <Legend />
                 <Line
@@ -140,7 +140,7 @@ const Dashboard = () => {
                   dataKey="investment"
                   cx="50%"
                   cy="50%"
-                  outerRadius={60}
+                  outerRadius={100}
                   fill="#8884d8"
                 />
                 <Pie
@@ -148,8 +148,8 @@ const Dashboard = () => {
                   dataKey="revenue"
                   cx="50%"
                   cy="50%"
-                  innerRadius={70}
-                  outerRadius={90}
+                  innerRadius={115}
+                  outerRadius={150}
                   fill="#82ca9d"
                   label
                 />

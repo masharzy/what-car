@@ -8,7 +8,6 @@ const Blogs = () => {
       .then((res) => res.json())
       .then((data) => setBlogs(data));
   },[]);
-  console.log(blogs);
   return (
     <div className="container">
       <div className="row">

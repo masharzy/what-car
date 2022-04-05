@@ -9,7 +9,6 @@ const HomePageReviews = () => {
   return (
     <div className="container">
       <div className="row">
-          
         <div className="title">
           <h1 className="text-center">Customers Reviews(3)</h1>
         </div>

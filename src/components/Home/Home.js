@@ -1,5 +1,4 @@
 import React from "react";
-import useReviews from "../../hooks/useReviews";
 import hero from "../../images/model-x.png";
 import HomePageReviews from "../HomePageReviews/HomePageReviews";
 import "./Home.css";
